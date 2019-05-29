@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World for v4.0 Using Jenkins Job" );
+        System.out.println( "Hello World for v3.0 Using Jenkins" );
     }
 }
